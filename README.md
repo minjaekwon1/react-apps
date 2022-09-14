@@ -1,1 +1,1 @@
-Learning how to use React by building a set of projects focused around using the functionality of React.
+Learning how to use React by building a set of projects within an app created using create-react-app.
